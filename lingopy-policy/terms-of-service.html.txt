@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Service | Lingopy</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 40px; line-height: 1.6; background: #fff; color: #333; max-width: 800px; margin: auto; }
+    h1 { color: #2c3e50; }
+    a { color: #3498db; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>By using the Lingopy app ("the App"), you agree to these Terms of Service.</p>
+
+  <h2>Use of the App</h2>
+  <p>You agree to use the App only for educational purposes and in compliance with applicable laws. Misuse or attempts to hack the App are prohibited.</p>
+
+  <h2>Accounts</h2>
+  <p>You are responsible for maintaining the confidentiality of your account and password.</p>
+
+  <h2>Intellectual Property</h2>
+  <p>All content, trademarks, and materials in the App are owned by Lingopy. You may not copy, distribute, or modify them without permission.</p>
+
+  <h2>Termination</h2>
+  <p>We reserve the right to suspend or delete your account if you violate these Terms.</p>
+
+  <h2>Limitation of Liability</h2>
+  <p>We are not liable for any damages arising from your use or inability to use the App.</p>
+
+  <h2>Changes</h2>
+  <p>We may revise these Terms at any time. Continued use of the App means you accept the new Terms.</p>
+
+  <h2>Contact</h2>
+  <p>For questions, contact us at <a href="mailto:contact.lingopy@gmail.com">contact.lingopy@gmail.com</a>.</p>
+</body>
+</html>
